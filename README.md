@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quantum-blue&show_icons=true&locale=en" alt="quantum-blue" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quantum-blue&" alt="quantum-blue" /></p>
+
+![snake gif](https://github.com/quantum-Blue/quantum-Blue/blob/output/github-contribution-grid-snake.gif)
